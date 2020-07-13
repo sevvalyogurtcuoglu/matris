@@ -1,4 +1,4 @@
-# matris
+
 
  this is a simple matrix application
 ### Aim
